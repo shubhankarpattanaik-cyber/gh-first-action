@@ -6,7 +6,7 @@ jobs:
     steps:
       - name: print greetings
         run: echo "Hello this is my first work flow"
-      - name: Print Goodbye!
+      - name: Print Goodbye
         run: echo"Done-bye!"
     
 
